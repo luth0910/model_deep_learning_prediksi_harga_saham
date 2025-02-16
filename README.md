@@ -49,5 +49,5 @@ Model LSTM yang digunakan memiliki **3 lapisan utama**:
 ## ⚙️ **Instalasi & Penggunaan**
 ### 1️⃣ **Clone Repository**
 ```bash
-git clone https://github.com/username/stock-price-prediction-lstm.git
-cd stock-price-prediction-lstm
+git clone [https://github.com/luth0910/model_deep_learning_prediksi_harga_saham.git]
+cd model_deep_learning_prediksi_harga_saham.git
